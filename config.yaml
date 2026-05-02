@@ -1,0 +1,7 @@
+app:
+  name: jenkins-poc-test
+  version: 1.0
+  environment: dev
+server:
+  port: 8080
+  host: localhost
